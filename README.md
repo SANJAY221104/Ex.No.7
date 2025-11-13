@@ -1,7 +1,7 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+## Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date: 09/10/25
-# Register no: 212222060217
+## Date: 09/10/25
+## Register no: 212222060217
 ---
 
 ## Aim
